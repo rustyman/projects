@@ -1,0 +1,24 @@
+This is just Simple Readme
+Handy command's:
+
+== GIT ==
+
+git branch <branch> -d/-D delate branch.
+Push git Repo - git push origin master
+
+== PACMAN ==
+
+pacman -Qqm - list of packages installed form AUR.
+pacman -Qqe all packages that is installed on system.
+pacman -Si vievs info about package to install.
+pacman -Qi vievs info about installed package.
+
+== Misc ==
+
+If you want to write a program/script and you want to later execute it you 
+need on the top of script/program the what language/shell will execute it.
+
+Example:
+#!/bin/name of shell.
+#!/usr/bin/name of language.
+
